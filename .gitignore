@@ -1,0 +1,10 @@
+.idea/
+pycache/
+.DS_Store/
+build/
+dist/
+venv/
+Thumbs.db
+node_modules/
+out/
+reports/
